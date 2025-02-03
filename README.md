@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Ram2669
 - 👀 I’m interested in programming and ethical hacking
-- 🌱 I’m currently learning b.tech
-- 💞️ I’m looking to collaborate on ...
-- 📫 ramgopalpampana66@gmail.com ...
+- 🌱 I’m currently working in Cisco as software Test Engineer Trainee(Apprenticeship)
+- 📫 ramgopalpampana66@gmail.com 
 
 <!---
 Ram2669/Ram2669 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
